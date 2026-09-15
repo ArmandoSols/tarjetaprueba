@@ -1,7 +1,7 @@
 window.TARJETA_CONFIG = {
-  "appVersion": "12.7",
-  "curso": "Cálculo I",
-  "cursoCorto": "Calc1",
+  "appVersion": "12.13",
+  "curso": "Introducción al Cálculo",
+  "cursoCorto": "Intro",
   "modalidad": "Virtual",
   "scriptUrl": "https://script.google.com/macros/s/AKfycbyeoX4IefJz4TWi3_vDQGBzoi_KylsazJif-5-9HH_GEM-QhEFqYTJbhrPcrbKm9bPq5w/exec",
   "dominio": "@ufide.ac.cr",
