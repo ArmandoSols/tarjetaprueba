@@ -1,2 +1,2 @@
 # tarjetasIntro
-Tarjeta de Comodines de Introducción al Cálculo
+Tarjeta de Comodines de Prueba
